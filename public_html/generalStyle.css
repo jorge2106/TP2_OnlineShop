@@ -14,11 +14,19 @@ body {
 }
 
 header {
-    background: steelblue;
+    background: transparent;
     color: black;
     font-family: serif;
     padding: 25px;
     font-size: 40px;
+}
+
+div {
+    line-height:30px;
+    background-color:aquamarine;
+    height:20px;
+    width:1330px;
+    padding:5px;
     margin: 5px;
 }
 
@@ -37,6 +45,7 @@ section {
     background: chartreuse;
     padding: 5px;
     margin: 3px;
+    margin-left: 100px;
 }
 
 img {
