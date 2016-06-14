@@ -11,14 +11,17 @@ and open the template in the editor.
 body {
     color: black;
     background-image: url("wallpapers.windowsace.co-FILEminimizer.jpg");
+    background-repeat: repeat;
 }
 
 header {
     background: transparent;
     color: black;
+    font-style: initial;
+    font-weight: bold;
     font-family: serif;
     padding: 25px;
-    font-size: 40px;
+    font-size: 70px;
 }
 
 div {
@@ -26,6 +29,8 @@ div {
     background-color:aquamarine;
     height:20px;
     width:1330px;
+    font-family: serif;
+    font-size: 10px;
     padding:5px;
     margin: 5px;
 }
@@ -37,7 +42,7 @@ nav {
     width:80px;
     float:left;
     padding:5px;
-    margin: 5px;
+    margin: 3px;
 }
 
 section {
@@ -50,8 +55,8 @@ section {
 
 img {
     float: left;
-    width:100px;
-    height:95px;
+    width:181px;
+    height:140px;
 }
 
 footer {
