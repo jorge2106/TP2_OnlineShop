@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/06/2016, 11:10:57 AM
+    Author     : Jorge
+*/
+
+body {
+    color: black;
+    background-image: url("14_earthawards_ef170910.jpg");
+}
+
+header {
+    background: steelblue;
+    color: black;
+    font-family: serif;
+    padding: 25px;
+    font-size: 40px;
+    margin: 5px;
+}
+
+nav {
+    line-height:30px;
+    background-color:steelblue;
+    height:300px;
+    width:80px;
+    float:left;
+    padding:5px;
+    margin: 5px;
+}
+
+section {
+    color: black;
+    background: chartreuse;
+    padding: 5px;
+    margin: 3px;
+}
+
+img {
+    float: left;
+    width:100px;
+    height:95px;
+}
+
+footer {
+    clear:both;
+    text-align:center;
+    background: steelblue;
+    padding:5px;
+    color: white;
+    margin: 4px;
+}
+
